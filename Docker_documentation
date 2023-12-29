@@ -1,0 +1,19 @@
+Docker Installation Steps:
+command:
+Linux
+For Linux distributions, you can install Docker using the package manager specific to your distribution. For example, on Ubuntu, you might use:
+
+sudo apt-get update
+sudo apt-get install docker.io
+
+Docker Curriculam :
+Getting Started:
+command:
+
+docker images
+docker ps -a
+docker pull busybox
+docker images
+docker ps -a
+docker run busybox
+
