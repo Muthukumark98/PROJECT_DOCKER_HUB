@@ -8,7 +8,7 @@ sudo apt-get install docker.io
 
 Docker Curriculam :
 Getting Started:
-command:
+command: 
 
 docker images
 docker ps -a
